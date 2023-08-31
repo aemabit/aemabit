@@ -1,23 +1,25 @@
-## 👋 Hi there, I'm Andres Mejias 
+# 👋 Hi there, I'm Andres Mejias
 
-### Tech Stack
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Graphql" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> <img alt="Node JS" src="https://img.shields.io/badge/node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express JS" src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F0503C.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Digital Ocean" src="https://img.shields.io/badge/digital%20ocean%20-%230080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew%20-%23FBB040.svg?&style=for-the-badge&logo=homebrew&logoColor=black"/> 
+I am a software developer with a passion for creating efficient, scalable, and impactful applications. With experience in various technologies, I enjoy working on both frontend and backend development to build comprehensive solutions.
 
-### You can also find me here...
+## Tech Stack
+
+- **Languages:** Javascript, Typescript, Rust, Python
+- **Frontend:** Next.js, React, React Native, Tailwind CSS, Sass, CSS, ...
+- **Backend:** Node.js, Express, Hapi, GraphQL, Apollo, Django, FastAPI, Axum
+- **Database:** PostgreSQL, MSSQL, MongoDB
+- **DevOps:** Git, Digital Ocean, Docker
+
+## Projects
+
+- **Project 1**: Description of project 1...
+- **Project 2**: Description of project 2...
+
+## Contact
+
+Feel free to reach out to me on any of the following platforms:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%231572B6?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andres-mejias)
+[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/aemabit)
 
-<!--
-**aemabit/aemabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Or send me an email at: aemabit@gmail.com
