@@ -10,11 +10,6 @@ I am a software developer with a passion for creating efficient, scalable, and i
 - **Database:** PostgreSQL, MSSQL, MongoDB
 - **DevOps:** Git, Digital Ocean, Docker
 
-## Projects
-
-- **Project 1**: Description of project 1...
-- **Project 2**: Description of project 2...
-
 ## Contact
 
 Feel free to reach out to me on any of the following platforms:
