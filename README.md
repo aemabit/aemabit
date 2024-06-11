@@ -4,9 +4,9 @@ I am a software developer with a passion for creating efficient, scalable, and i
 
 ## Tech Stack
 
-- **Languages:** Javascript, Typescript, Rust, Python
+- **Languages:** Javascript, Typescript, Ruby, Rust, Python
 - **Frontend:** Next.js, React, React Native, Tailwind CSS, Sass, CSS, ...
-- **Backend:** Node.js, Express, Hapi, GraphQL, Apollo, Django, FastAPI, Axum
+- **Backend:** Node.js, Express, Hapi, Ruby on Rails, GraphQL, Apollo, Django, FastAPI, Axum
 - **Database:** PostgreSQL, MSSQL, MongoDB
 - **DevOps:** Git, Digital Ocean, Docker
 
